@@ -12,15 +12,15 @@ section { display: flex; }
 .flex { display: flex; }
 .flex-column { flex-direction: column;}
 .flex-one { flex:1; }
-.aling-center { align-items: center; }
+.center { text-align: center; }
 .center { justify-content: center; }
 .space-between { justify-content: space-between; }
-.btn {
+.button {
     cursor: pointer;
     border: 0;
     padding: 6px 12px;
     border-radius: 3px;
-    line-height: 1.4px;
+    line-height: 1.4;
 }
 .btn-default { color: #ffffff; background-color: #faa541; }
 .btn-primary { color: #ffffff; background-color: #364147; }
