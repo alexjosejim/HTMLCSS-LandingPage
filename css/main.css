@@ -12,7 +12,7 @@ section { display: flex; }
 .flex { display: flex; }
 .flex-column { flex-direction: column;}
 .flex-one { flex:1; }
-.center { text-align: center; }
+.align-center { text-align: center; }
 .center { justify-content: center; }
 .space-between { justify-content: space-between; }
 .button {
